@@ -41,4 +41,4 @@ jobs:
         run: npm ci
 
       - name: Format checking
-        run: npm run format:checkk
+        run: npm run format:check
